@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name": "Sahil Sharma",
+    "occupation": "Tech Frontend Lead at Sendinblue",
+    "description": "Full-stack dev mostly working on React, Node.js and build tools. love design and sports 🎉",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Sonny! I am a detailed oriented accomplished technical frontend lead, with more than 5 years of experience, as well as proven track record of managing several tasks and large projects on time, working mostly in front-end technologies (React/Redux, and vanilla JS). I enjoy coding for the fun of it, but getting paid to code is even better. I spend my down-time working on various side-projects and contributing to open source. I am highly collaborative person who can work well in groups as well as on my own. I am good in time management as well as in team management which I believe, important aspects to deliver the project successfully.",
+    "contactmessage": "",
+    "email": "jobss.sahil@gmail.com",
+    "phone": "+91 7018537638",
+    "address": {
+      "street": "D12A3 Gulshan Botnia",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "zip": "201306"
+    },
+    "website": "",
+    "resumedownload": "images/resume.pdf",
+    "social": [
+      {
+        "name": "leetcode",
+        "url": "https://leetcode.com/user0237fi/",
+        "className": "fa fa-code"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sahilsharma2408",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/SahilSh12092721",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sahilsharma241993/",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Jaypee University of Information and Technology",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2017",
+        "description": "Graduated with 7.6 CGPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "Sendinblue",
+        "title": "Technical Frontend Lead",
+        "years": "Apr 19 - Present",
+        "description": "Responsible for managing the team and provide technical solutions for the product"
+      },
+      {
+        "company": "Tracxn",
+        "title": "Software Developer",
+        "years": "Apr 2018 - Apr 2019",
+        "description": "Responsible for developing the specific frontend part of the product"
+      },
+      {
+        "company": "Infosys",
+        "title": "System Software Engineer",
+        "years": "Jun 2017 - Apr 2018",
+        "description": "Responsible for migrating the banking application build using JSP servelets to ReactJs"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Redux",
+        "level": "100%"
+      },
+      {
+        "name": "Typescript",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "85%"
+      },
+      {
+        "name": "Docker",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "kubernetes",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I've worked with Sahil in many projects. He is the most profound person who comes with variety of skill sets and his ability to tackle any problem is remarkable. Looking at his expertise, his work style is very unique and he is easily adjustable to a given situation.",
+        "user": "Vibhor Sharma"
+      },
+      {
+        "text": "I have worked with Sahil at Sendinblue, his work ethics are pristine, and he is easily adjustable to a given situation. His ability to go out of his way to help others has made him stand out. His knowledge of React ecosystem is great, learned a lot of the latest stuff while working with him. He managed projects like Micro-frontend, Design System, react-boilerplate which made developers' life easy. Thanks a lot for your continuous guidance! ",
+        "user": "Vibhu Misha"
+      }
+    ]
+  }
+}
